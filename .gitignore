@@ -1,5 +1,4 @@
 venv/
 __pycache__/
 results_*/
-*.png
 AI_Human.csv
