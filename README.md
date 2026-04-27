@@ -117,11 +117,12 @@ ai-vs-human-classifier/
 ├── classifier.py              # Main training & evaluation script
 ├── .gitignore                 # Ignores venv, CSV, cache
 ├── README.md                  # Project documentation
-├── eda_plots.png              # Class distribution & text length plots
-├── confusion_matrices.png     # Confusion matrices for all 5 models
-├── metrics_comparison.png     # Grouped bar chart of all metrics
-├── roc_curves.png             # ROC curves for all 5 models
-└── accuracy_f1_line.png       # Accuracy vs F1 line plot
+├── /outputs
+        ├──eda_plots.png               # Class distribution & text length plots
+        ├── confusion_matrices.png     # Confusion matrices for all 5 models
+        ├── metrics_comparison.png     # Grouped bar chart of all metrics
+        ├── roc_curves.png             # ROC curves for all 5 models
+        └── accuracy_f1_line.png       # Accuracy vs F1 line plot
 ```
 
 ---
