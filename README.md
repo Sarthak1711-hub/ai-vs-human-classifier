@@ -180,12 +180,6 @@ python classifier.py
 
 ---
 
-## 📄 License
-
-[MIT License](LICENSE)
-
----
-
 ## 👨‍💻 Author
 
 **Sarthak Mandal** — [@Sarthak1711-hub](https://github.com/Sarthak1711-hub)
